@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrMcMann
-- 👀 I'm interested in creating cool short stories, drawing, and programming
+- 👀 I'm interested drawing and programming
 - My hobbies include: reading books, playing tennis, and Magic the Gathering
 - 🌱 I’m currently learning how to program websites and games in my computer science classes at school
 - I want to learn how to program better and make some cool websites and games
